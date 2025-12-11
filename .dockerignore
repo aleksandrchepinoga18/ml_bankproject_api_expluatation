@@ -1,0 +1,10 @@
+# Ignore unnecessary files in Docker build
+__pycache__
+*.pyc
+.env
+monitoring/logs/
+monitoring/reference/
+data/
+models/
+.git
+.gitignore
