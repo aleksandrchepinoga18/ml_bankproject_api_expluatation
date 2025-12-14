@@ -58,8 +58,4 @@ python monitoring/simulate_labels.py
 
 В текущей версии логика всех компонентов реализована в виде модульных скриптов, готовых к интеграции в enterprise-инфраструктуру.
 
-## 📊 MLflow Tracking
-![MLflow UI](screenshots/mlflow.png)
 
-## 🛠️ Airflow Orchestration
-![Airflow DAG](screenshots/airflow.png)
